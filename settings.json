@@ -74,9 +74,3 @@
       "connect": true,
       "disconnect": true,
       "chat": false
-    }
-  },
-  "chat": {
-    "respond": false
-  }
-}
